@@ -1,0 +1,26 @@
+body {
+    background-color: #f1f1f1;
+}
+
+#colImage {
+    text-align: center; /* Centramos el contenido horizontalmente */
+    vertical-align: middle; /* Centramos el contenido verticalmente */
+    border: none;
+    background-color: #f1f1f1;
+    min-width: 40px;
+}
+
+#colNum {
+    min-width: 40px;
+}
+
+.table-div {
+    max-width: 900px;
+    scrollbar-color: #dee2e6 #f8f9fa;
+}
+
+#limpiar-b {
+    height: 25px;
+    width: 50px;
+    padding: 0;
+}
